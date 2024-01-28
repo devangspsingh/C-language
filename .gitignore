@@ -54,4 +54,6 @@ dkms.conf
 
 /Learning
 **/Assignments
-**/Practicals
+
+**.docx
+**.pdf
